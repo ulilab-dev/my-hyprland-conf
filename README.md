@@ -6,3 +6,8 @@ hyprland.conf
 ### install localsend
 
 ### install pavucontrol
+
+### don't forget use this on pacman.conf
+```
+ILoveCandy
+```
