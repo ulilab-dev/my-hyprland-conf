@@ -9,5 +9,7 @@ hyprland.conf
 
 ### don't forget use this on pacman.conf
 ```
+# put this on Misc options
+
 ILoveCandy
 ```
