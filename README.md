@@ -1,7 +1,7 @@
 # my-hyprland-conf
 hyprland.conf
 
-### install hypr-panel
+### install hyprpanel
 
 ### install localsend
 
