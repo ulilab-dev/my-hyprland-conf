@@ -13,3 +13,5 @@ hyprland.conf
 
 ILoveCandy
 ```
+
+`download Bibata-Modern-Ice`
