@@ -14,4 +14,5 @@ hyprland.conf
 ILoveCandy
 ```
 
+## cursor
 `download Bibata-Modern-Ice`
