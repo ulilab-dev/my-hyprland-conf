@@ -1,11 +1,11 @@
 # my-hyprland-conf
 hyprland.conf
 
-### install hyprpanel
+### install hyprlock & wlogout
 
-### install localsend
+### install hypridle 
 
-### install pavucontrol
+### install rofi 
 
 ### don't forget use this on pacman.conf
 ```
