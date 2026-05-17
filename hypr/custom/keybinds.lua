@@ -30,7 +30,6 @@ hl.bind(mainMod .. " + P", hl.dsp.window.pseudo())
 hl.bind(mainMod .. " + J", hl.dsp.layout("togglesplit"))    -- dwindle only
 hl.bind("SUPER+SHIFT+W", hl.dsp.exec_cmd("~/.config/waybar/start.sh"))
 
-
 -- Move focus with mainMod + arrow keys
 hl.bind(mainMod .. " + left",  hl.dsp.focus({ direction = "left" }))
 hl.bind(mainMod .. " + right", hl.dsp.focus({ direction = "right" }))
@@ -42,7 +41,6 @@ hl.bind("SUPER+SHIFT+left", hl.dsp.window.move({ direction = "left"}))
 hl.bind("SUPER+SHIFT+right", hl.dsp.window.move({ direction = "right"}))
 hl.bind("SUPER+SHIFT+up", hl.dsp.window.move({ direction = "up"}))
 hl.bind("SUPER+SHIFT+down", hl.dsp.window.move({ direction = "down"}))
-
 
 -- Switch workspaces with mainMod + [0-9]
 -- Move active window to a workspace with mainMod + SHIFT + [0-9]
